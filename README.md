@@ -1,3 +1,3 @@
 # Workshop: 
-_création de visuels génératifs et paramétriques avec touchdesigner_ __
-creating generative & parametric visuals with touchdesigner
+_création de visuels génératifs et paramétriques avec touchdesigner_ <br />
+creating generative & parametric visuals with touchdesigner  <br />
