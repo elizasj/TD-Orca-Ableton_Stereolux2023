@@ -5,13 +5,13 @@ _This workshop explores the creation of generative and parametric visuals using 
 ## Contents
 
 <span id="td">
--- Touch Deisgner
+* Touch Deisgner
 </span>
 <span id="orca">
--- Orca
+* Orca
 </span>
 <span id="ableton">
--- Ableton
+* Ableton
 </span>
 
 ## [Touch Designer](#td)
@@ -153,7 +153,7 @@ _Geometry instances in the are copies of the geometry object, which can be trans
 _TD Ableton is a really handy package for bridgin Ableton with Touch Designer. It gives aggess to tracks, audio and midi notes & velocities_
 
 **TD Ableton**
-![tdableton](/images/tdabletons.png)
+![tdableton](/images/tdableton.png)
 
 </details>
 
@@ -209,11 +209,11 @@ With Live open in Session View, where all tracks are organised into columns, you
 
 Now it's time to get curious and creative with sound. Live has a lot to offer in terms of instruments and effects, if you don't yet have your own to play with. Live's integrated samples can be drag-&-dropped onto any MIDI column. For audio samples, you'll need to first create a Simpler instrument, then drag and drop audio effects on top of the instrument, (not the column, but the instrument just below where it says Drop Sample Here.) To add Midi or Audio Effects do the same:
 
-**adding a midi sample**
+**adding a midi sample**<br />
 ![loopmidi](/images/midisample.gif)
 
 **adding an audio sample with Simpler sampler**
 ![loopmidi](/images/simplersampling.gif)
 
 **adding MIDI and audio effects to samples**
-![loopmidi](/images/addingfx)
+![loopmidi](/images/addingfx.gif)
