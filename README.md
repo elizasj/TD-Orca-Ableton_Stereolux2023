@@ -169,8 +169,12 @@ The `D` we just set up will flash a bang every 8 frames unless changed through
 
 In order to interface with other software, we'll need to assign a data format to our bangs. As mentioned, we'll be working with MIDI, which Orca sends using the colon symbol `:` It comes with five parameters - channel, octave, note, velocity & length. You'll need the first three parameters to make any kind of sound or visual, the last two can be left empty.
 
-An example of this would be:
+<details>
+<summary>An example of this would be:</summary>
+
 ![orca](/images/image.gif)
+
+</details>
 
 A brief overview of the MIDI parameters: **octave** and **note** refer to the pitch of a sound, while **velocity** has to do with the loudness/quietness of said pitch. **Length** is how long the pitch holds before petering out. You can play with these four elements to make some pretty interesting sound and visual variations.
 
@@ -203,11 +207,23 @@ With Live open in Session View, where all tracks are organised into columns, you
 
 Now it's time to get curious and creative with sound. Live has a lot to offer in terms of instruments and effects, if you don't yet have your own to play with. Live's integrated samples can be drag-&-dropped onto any MIDI column. For audio samples, you'll need to first create a Simpler instrument, then drag and drop audio effects on top of the instrument, (not the column, but the instrument just below where it says Drop Sample Here.) To add Midi or Audio Effects do the same:
 
-**adding a midi sample**<br />
+<details>
+<summary>adding a midi sample</summary>
+
 ![loopmidi](/images/midisample.gif)
 
-**adding an audio sample with Simpler sampler**
+</details>
+
+<details>
+<summary>adding an audio sample with Simpler sampler</summary>
+
 ![loopmidi](/images/simplersampling.gif)
 
-**adding MIDI and audio effects to samples**
+</details>
+
+<details>
+<summary>adding MIDI and audio effects to samples</summary>
+
 ![loopmidi](/images/addingfx.gif)
+
+</details>
