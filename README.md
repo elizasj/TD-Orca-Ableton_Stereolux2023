@@ -4,15 +4,14 @@ _This workshop explores the creation of generative and parametric visuals using 
 
 ## Contents
 
-<span id="td">
-* Touch Deisgner
-</span>
-<span id="orca">
-* Orca
-</span>
-<span id="ableton">
-* Ableton
-</span>
+<div id="td">
+Touch Deisgner
+</div>
+<div id="orca">
+Orca</div>
+<div id="ableton">
+Ableton
+</div>
 
 ## [Touch Designer](#td)
 
