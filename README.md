@@ -4,10 +4,12 @@ _This workshop explores the creation of generative and parametric visuals using 
 
 ## Touch Designer
 
+### Basics
+
 <details>
 <summary>TOPS</summary>
 
-_2D space. Each pixel has an x,y position and an RGBA value associated with it, every TOP has a resolution_<br />
+_Deals with 2D space. Each pixel has an x,y position and an RGBA value associated with it, every TOP has a resolution_<br />
 
 **RGBA**
 ![RGBA](/images/RGBA.png)
@@ -23,7 +25,7 @@ _2D space. Each pixel has an x,y position and an RGBA value associated with it, 
 <details>
 <summary>CHOPS</summary>
 
-_1d space, dealing with numerical data, channel based, and each channel is sample based. AKA they take in data. Chops drive other parameters in touch designer. Can be 1 chan/1 sample, or 1 chan/multiple samples…_
+_Deals with 1d space, dealing with numerical data, channel based, and each channel is sample based. AKA they take in data. Chops drive other parameters in touch designer. Can be 1 chan/1 sample, or 1 chan/multiple samples…_
 
 **Single channel, single sample**
 ![Single channel and sample](/images/singlesample.png)
@@ -48,7 +50,7 @@ _1d space, dealing with numerical data, channel based, and each channel is sampl
 <details>
 <summary>SOPS</summary>
 
-_3d space. SOPs can generate, import, modify and combine 3D surfaces (aka geometries)_
+_Deals with 3d space. SOPs can generate, import, modify and combine 3D surfaces (aka geometries)_
 
 **3D object basics**
 ![lag op](/images/3dbasics.png)
@@ -72,3 +74,13 @@ _3d space. SOPs can generate, import, modify and combine 3D surfaces (aka geomet
 ![lag op](/images/3drender.png)
 
 </details>
+
+<details>
+<summary>MATS</summary>
+</details>
+
+<details>
+<summary>COMPS</summary>
+</details>
+
+### Advanced Topics
