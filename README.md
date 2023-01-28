@@ -16,7 +16,7 @@ _This workshop explores the creation of generative and parametric visuals using 
 
 ## [Touch Designer](#td)
 
-[Touch Designer 2022.31030+](https://derivative.ca/download/archive)
+→ [Touch Designer 2022.31030+](https://derivative.ca/download/archive)
 
 ### _Basics_
 
@@ -158,8 +158,8 @@ _TD Ableton is a really handy package for bridgin Ableton with Touch Designer. I
 
 ## [ORCA](#orca)
 
-- [Orca](https://hundredrabbits.itch.io/orca)
-- [LoopMidi](http://www.tobias-erichsen.de/software/loopmidi.html) (PC) / [IAC Bus](https://help.ableton.com/hc/en-us/articles/209774225-How-to-setup-a-virtual-MIDI-bus) (Mac)
+→ [Orca](https://hundredrabbits.itch.io/orca)
+→ [LoopMidi](http://www.tobias-erichsen.de/software/loopmidi.html) (PC) / [IAC Bus](https://help.ableton.com/hc/en-us/articles/209774225-How-to-setup-a-virtual-MIDI-bus) (Mac)
 
 Orca is a language comprised of [26 functions](https://github.com/hundredrabbits/Orca), one for every letter of the alphabet. It's also a live coding environment, inside which you can use your arrow keys to move around.
 
@@ -195,6 +195,8 @@ At any point, hit CMD + G and Orca's documentation will appear in the window. Ye
 Remember to place your cursor over the white and green dots that appear around the letters to see what the parameters are for.
 
 ## [Ableton Live](#ableton)
+
+→ [Ableton](https://www.ableton.com/en/trial/)
 
 > If you're on a PC, make sure you've got LoopMidi already running for this next part.
 
