@@ -5,7 +5,7 @@ _This workshop explores the creation of generative and parametric visuals using 
 ## Touch Designer
 
 <details>
-<summary>###### TOPS</summary>
+<summary>TOPS</summary>
 
 _2D space. Each pixel has an x,y position and an RGBA value associated with it, every TOP has a resolution_<br />
 
@@ -20,7 +20,8 @@ _2D space. Each pixel has an x,y position and an RGBA value associated with it, 
 
 </details>
 
-###### CHOPS
+<details>
+<summary>CHOPS</summary>
 
 _1d space, dealing with numerical data, channel based, and each channel is sample based. AKA they take in data. Chops drive other parameters in touch designer. Can be 1 chan/1 sample, or 1 chan/multiple samples…_
 
@@ -42,7 +43,10 @@ _1d space, dealing with numerical data, channel based, and each channel is sampl
 **Filter OP to smooth out dynamic data (similar to Lag, nuanced difference)**
 ![filter op](/images/filterop.png)
 
-###### SOPS
+</details>
+
+<details>
+<summary>SOPS</summary>
 
 _3d space. SOPs can generate, import, modify and combine 3D surfaces (aka geometries)_
 
@@ -66,3 +70,5 @@ _3d space. SOPs can generate, import, modify and combine 3D surfaces (aka geomet
 
 **3D Rendered scene**
 ![lag op](/images/3drender.png)
+
+</details>
