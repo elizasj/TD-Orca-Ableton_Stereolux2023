@@ -4,7 +4,8 @@ _This workshop explores the creation of generative and parametric visuals using 
 
 ## Touch Designer
 
-###### TOPS
+<details>
+<summary>###### TOPS</summary>
 
 _2D space. Each pixel has an x,y position and an RGBA value associated with it, every TOP has a resolution_<br />
 
@@ -16,6 +17,8 @@ _2D space. Each pixel has an x,y position and an RGBA value associated with it, 
 
 **Wiggly Edges**
 ![Wiggly Edges](/images/WigglyEdges.png)
+
+</details>
 
 ###### CHOPS
 
