@@ -4,16 +4,11 @@ _This workshop explores the creation of generative and parametric visuals using 
 
 ## Contents
 
-<div id="td">
-Touch Deisgner
-</div>
-<div id="orca">
-Orca</div>
-<div id="ableton">
-Ableton
-</div>
+[Touch Designer](#td)
+[Orca](#orca)
+[Ableton](#ableton)
 
-## [Touch Designer](#td)
+## Touch Designer<a name="td"></a>
 
 → [Touch Designer 2022.31030+](https://derivative.ca/download/archive)
 
@@ -156,7 +151,7 @@ _TD Ableton is a really handy package for bridgin Ableton with Touch Designer. I
 
 </details>
 
-## [ORCA](#orca)
+## Orca<a name="orca"></a>
 
 → [Orca](https://hundredrabbits.itch.io/orca)
 → [LoopMidi](http://www.tobias-erichsen.de/software/loopmidi.html) (PC) / [IAC Bus](https://help.ableton.com/hc/en-us/articles/209774225-How-to-setup-a-virtual-MIDI-bus) (Mac)
@@ -194,7 +189,7 @@ At any point, hit CMD + G and Orca's documentation will appear in the window. Ye
 
 Remember to place your cursor over the white and green dots that appear around the letters to see what the parameters are for.
 
-## [Ableton Live](#ableton)
+## Ableton<a name="ableton"></a>
 
 → [Ableton](https://www.ableton.com/en/trial/)
 
