@@ -147,6 +147,7 @@ _Geometry instances in the are copies of the geometry object, which can be trans
 
 </details>
 
+<details>
 <summary>TD Ableton</summary>
 
 _TD Ableton is a really handy package for bridgin Ableton with Touch Designer. It gives aggess to tracks, audio and midi notes & velocities_
