@@ -2,14 +2,16 @@
 
 _This workshop explores the creation of generative and parametric visuals using TouchDesigner, and then integrating sounds with Ableton Live and Orca to produce realtime interaction between audio and visual components. The goal of this workshop is to provide you with a introductory overview of Touch Designer, as well as an understanding of how to use midi to power the animation of dynamic visuals being output by Touch Designer. You will leave with a simple set-up that can be used as a base/starting point (feel free to iterate and build out your own bespoke setup!) in the context of an artistic installation or an audiovisual performance._ <br />
 
+## Contents
+
 <h4 id="td">
-Optional Fields
+- Touch Deisgner
 </h4>
 <h4 id="orca">
-Optional Fields
+- Orca
 </h4>
 <h4 id="ableton">
-Optional Fields
+- Ableton
 </h4>
 
 ## [Touch Designer](#td)
