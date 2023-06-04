@@ -208,21 +208,21 @@ With Live open in Session View, where all tracks are organised into columns, you
 Now it's time to get curious and creative with sound. Live has a lot to offer in terms of instruments and effects, if you don't yet have your own to play with. Live's integrated samples can be drag-&-dropped onto any MIDI column. For audio samples, you'll need to first create a Simpler instrument, then drag and drop audio effects on top of the instrument, (not the column, but the instrument just below where it says Drop Sample Here.) To add Midi or Audio Effects do the same:
 
 <details>
-<summary>adding a midi sample</summary>
+<summary>adding a midi sample:</summary>
 
 ![loopmidi](/images/midisample.gif)
 
 </details>
 
 <details>
-<summary>adding an audio sample with Simpler sampler</summary>
+<summary>adding an audio sample with Simpler sampler:</summary>
 
 ![loopmidi](/images/simplersampling.gif)
 
 </details>
 
 <details>
-<summary>adding MIDI and audio effects to samples</summary>
+<summary>adding MIDI and audio effects to samples:</summary>
 
 ![loopmidi](/images/addingfx.gif)
 
